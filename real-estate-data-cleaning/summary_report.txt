@@ -1,0 +1,36 @@
+DATA CLEANING SUMMARY REPORT
+============================
+
+Original rows (before deduplication): 102
+Rows after removing exact duplicates: 102
+Duplicates removed: 0
+
+Total properties after cleaning: 102
+Price range: $236,161 - $1,500,000
+
+Average price by city:
+  Aurora: $822,800.68
+  Boulder: $932,668.56
+  Colorado Springs: $910,821.08
+  Denver: $894,609.42
+  Fort Collins: $960,383.87
+
+Status breakdown:
+  Sold: 35
+  Pending: 30
+  Active: 23
+  Unknown: 14
+
+Missing values:
+  address: 3
+  mls: 6
+  date_listed: 49
+
+Rows with missing address or price: 3
+
+Notes:
+- Standardized all dates to YYYY-MM-DD.
+- Converted all prices to numeric (float).
+- Set all states to 'CO'.
+- Standardized status to Active/Sold/Pending/Unknown.
+- Kept rows with missing data but flagged them.

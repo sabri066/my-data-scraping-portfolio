@@ -1,0 +1,103 @@
+address,mls,date_listed,status,city,state,price
+754 Broadway,MLS10000,2025-08-24,Unknown,Colorado Springs,CO,240845.0
+125 Pine Ln,MLS10001,2026-01-13,Unknown,Denver,CO,1389833.0
+350 Oak Dr,MLS10002,,Sold,Aurora,CO,469256.0
+242 Broadway,MLS10003,,Pending,Fort Collins,CO,1330985.0
+792 Park Rd,MLS10004,,Pending,Denver,CO,1285435.0
+189 Lakeview Blvd,MLS10005,2026-01-20,Active,Boulder,CO,1434048.0
+532 Main St,MLS10006,,Sold,Boulder,CO,892958.0
+130 Broadway,MLS10007,,Active,Fort Collins,CO,709602.0
+323 Oak Dr,MLS10008,2026-01-29,Pending,Denver,CO,1179421.0
+617 Lakeview Blvd,MLS10009,,Sold,Aurora,CO,911569.0
+127 Park Rd,MLS10010,2025-10-21,Active,Fort Collins,CO,584802.0
+303 Park Rd,MLS10011,2026-01-09,Unknown,Boulder,CO,1333695.0
+529 Oak Dr,MLS10012,2025-08-04,Sold,Fort Collins,CO,1209481.0
+559 Lakeview Blvd,MLS10013,,Pending,Aurora,CO,756171.0
+384 Main St,MLS10014,2026-01-27,Sold,Denver,CO,822241.0
+877 Maple Ave,MLS10015,,Sold,Denver,CO,1425109.0
+814 Elm St,MLS10016,,Sold,Boulder,CO,342524.0
+448 Pine Ln,MLS10017,2025-05-12,Pending,Boulder,CO,1500000.0
+259 Oak Dr,MLS10018,,Pending,Denver,CO,1030023.0
+881 Cedar Ct,MLS10019,2026-01-19,Sold,Colorado Springs,CO,1380683.0
+204 Broadway,MLS10020,,Active,Aurora,CO,344265.0
+489 Broadway,MLS10021,2025-09-25,Active,Boulder,CO,1300000.0
+467 Cedar Ct,MLS10022,,Sold,Boulder,CO,424470.0
+718 Pine Ln,MLS10023,2025-10-20,Unknown,Denver,CO,753614.0
+926 Main St,MLS10024,2025-12-21,Pending,Boulder,CO,780240.0
+847 Washington Ave,MLS10025,,Pending,Boulder,CO,1096924.0
+649 Broadway,,,Active,Colorado Springs,CO,974302.0
+487 Broadway,MLS10027,2025-11-10,Pending,Denver,CO,283665.0
+665 Pine Ln,MLS10028,2025-12-08,Sold,Boulder,CO,1052235.0
+949 Lakeview Blvd,MLS10029,2025-09-08,Active,Boulder,CO,251980.0
+982 Cedar Ct,MLS10030,2026-02-06,Sold,Boulder,CO,426692.0
+691 Oak Dr,MLS10031,,Pending,Colorado Springs,CO,677302.0
+821 Broadway,MLS10032,,Unknown,Aurora,CO,785367.0
+146 Oak Dr,MLS10033,,Pending,Denver,CO,441889.0
+891 Pine Ln,MLS10034,,Sold,Denver,CO,924958.0
+181 Oak Dr,MLS10035,,Sold,Aurora,CO,598624.0
+987 Broadway,MLS10036,2025-09-09,Pending,Denver,CO,346745.0
+489 Pine Ln,MLS10037,,Sold,Boulder,CO,1056462.0
+564 Cedar Ct,MLS10038,2025-11-28,Pending,Fort Collins,CO,995125.0
+266 Cedar Ct,MLS10039,2025-07-20,Sold,Colorado Springs,CO,837271.0
+463 Oak Dr,MLS10040,2025-12-01,Pending,Aurora,CO,648164.0
+786 Pine Ln,MLS10041,2025-11-02,Sold,Denver,CO,692555.0
+818 Broadway,MLS10042,,Pending,Aurora,CO,1196433.0
+723 Maple Ave,MLS10043,,Pending,Denver,CO,1005261.0
+646 Oak Dr,MLS10044,2025-03-06,Active,Aurora,CO,658943.0
+267 Washington Ave,MLS10045,2025-07-03,Sold,Aurora,CO,454507.0
+488 Pine Ln,MLS10046,,Sold,Fort Collins,CO,1128143.0
+755 Park Rd,MLS10047,2025-10-22,Pending,Aurora,CO,1195464.0
+324 Cedar Ct,MLS10048,,Pending,Colorado Springs,CO,775872.0
+963 Main St,MLS10049,,Sold,Boulder,CO,368983.0
+334 Main St,MLS10050,,Unknown,Fort Collins,CO,893908.0
+924 Cedar Ct,MLS10051,2026-02-15,Unknown,Aurora,CO,1424903.0
+510 Pine Ln,MLS10052,2025-08-10,Unknown,Fort Collins,CO,937691.0
+,MLS10053,,Pending,Fort Collins,CO,1345322.0
+680 Cedar Ct,,2025-08-02,Unknown,Fort Collins,CO,904914.0
+317 Washington Ave,MLS10055,2025-05-13,Active,Fort Collins,CO,1320138.0
+505 Washington Ave,MLS10056,,Pending,Fort Collins,CO,581113.0
+246 Pine Ln,MLS10057,,Pending,Aurora,CO,1084085.0
+242 Oak Dr,MLS10058,2026-01-21,Pending,Denver,CO,933920.0
+862 Park Rd,MLS10059,,Sold,Fort Collins,CO,618089.0
+651 Pine Ln,MLS10060,2025-10-17,Sold,Aurora,CO,657104.0
+864 Lakeview Blvd,MLS10061,2025-12-04,Active,Aurora,CO,440192.0
+538 Lakeview Blvd,MLS10062,,Pending,Boulder,CO,1407533.0
+508 Cedar Ct,MLS10063,2025-09-24,Sold,Denver,CO,709292.0
+324 Maple Ave,MLS10064,,Sold,Colorado Springs,CO,928139.0
+621 Washington Ave,MLS10065,2025-08-24,Unknown,Fort Collins,CO,1228027.0
+193 Main St,MLS10066,2025-10-10,Sold,Fort Collins,CO,1294182.0
+981 Broadway,MLS10067,2025-10-23,Active,Colorado Springs,CO,1442509.0
+256 Maple Ave,MLS10068,,Active,Fort Collins,CO,1174564.0
+911 Elm St,MLS10069,,Sold,Colorado Springs,CO,644847.0
+710 Broadway,,2025-06-20,Sold,Fort Collins,CO,600000.0
+494 Elm St,MLS10071,,Pending,Aurora,CO,236161.0
+710 Washington Ave,MLS10072,,Pending,Fort Collins,CO,1313423.0
+641 Pine Ln,MLS10073,,Pending,Aurora,CO,683473.0
+666 Main St,MLS10074,2025-04-30,Sold,Aurora,CO,1215438.0
+796 Broadway,MLS10075,,Active,Aurora,CO,607094.0
+798 Park Rd,MLS10076,2025-03-05,Pending,Fort Collins,CO,314349.0
+868 Pine Ln,MLS10077,,Sold,Denver,CO,1403899.0
+887 Cedar Ct,MLS10078,,Active,Aurora,CO,1201870.0
+214 Pine Ln,MLS10079,2026-01-13,Active,Aurora,CO,1380360.0
+317 Washington Ave,MLS10080,,Active,Colorado Springs,CO,1496917.0
+204 Broadway,MLS10081,2026-01-26,Pending,Denver,CO,840428.0
+242 Oak Dr,MLS10082,,Sold,Denver,CO,755003.0
+754 Broadway,,,Sold,Colorado Springs,CO,1144774.0
+146 Oak Dr,MLS10084,2025-10-13,Pending,Aurora,CO,1152172.0
+324 Maple Ave,MLS10085,2025-12-11,Unknown,Boulder,CO,1342030.0
+467 Cedar Ct,MLS10086,2025-05-10,Active,Denver,CO,845108.0
+324 Maple Ave,MLS10087,2025-06-14,Active,Denver,CO,1044121.0
+559 Lakeview Blvd,,,Active,Boulder,CO,1106029.0
+564 Cedar Ct,MLS10089,2025-03-18,Sold,Denver,CO,243506.0
+324 Maple Ave,MLS10090,2025-11-25,Active,Fort Collins,CO,1127422.0
+868 Pine Ln,MLS10091,,Sold,Colorado Springs,CO,1056368.0
+847 Washington Ave,MLS10092,2025-08-04,Sold,Denver,CO,804436.0
+881 Cedar Ct,MLS10093,2025-08-03,Unknown,Denver,CO,729318.0
+755 Park Rd,MLS10094,2025-08-24,Active,Fort Collins,CO,313674.0
+204 Broadway,MLS10095,,Pending,Fort Collins,CO,1351797.0
+911 Elm St,,,Sold,Denver,CO,1476896.0
+981 Broadway,MLS10097,,Active,Boulder,CO,671231.0
+,MLS10098,,Active,Fort Collins,CO,812078.0
+798 Park Rd,MLS10099,2025-04-25,Sold,Denver,CO,503336.0
+754 Broadway,MLS10000,2025-08-24,Unknown,Colorado Springs,CO,240845.0
+,MLS10001,2026-01-13,Unknown,Denver,CO,1389833.0
