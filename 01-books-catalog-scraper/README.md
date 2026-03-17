@@ -43,7 +43,7 @@ The resulting CSV file contains 20 rows (one per book) with two columns: `Book T
 
 ## Files in This Folder
 - `book_price_analysis.ipynb` – Jupyter/Colab notebook with the code.
-- `my_first_scraped_books.csv` – The final data file.
+- `book_price_analysis.csv` – The final data file.
 
 ## How to Run
 1. Open the notebook in Google Colab or Jupyter.
