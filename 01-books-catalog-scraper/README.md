@@ -1,33 +1,37 @@
-# Project 1: Book Catalog Scraper
+📊 Book Price Analysis Using Web Scraping
 
-## Objective
-The goal of this project was to extract product information from an online bookstore's catalog page. This simulates a real-world task where a client needs product data for analysis.
+📌 Objective
+
+This project extracts and analyzes book pricing data from an online catalog to understand pricing trends and distribution.
 
 ## Website Scraped
 [http://books.toscrape.com/](http://books.toscrape.com/) – a safe practice site.
 
-## Tools Used
+🛠 Tools Used
+- Python
+- requests
+- BeautifulSoup
+- pandas
+- matplotlib
 - Python 3
-- `requests` – to fetch the webpage
-- `BeautifulSoup` (bs4) – to parse HTML
-- `pandas` – to organize and export data
+
 
 ## Process
-1. **Fetch** the webpage using `requests.get()`.
-2. **Parse** the HTML content with BeautifulSoup.
-3. **Identify** the HTML structure using browser Developer Tools (Inspect).
-4. **Find** all book containers (`<article class="product_pod">`).
-5. **Extract** title (from `<h3><a title="...">`) and price (from `<p class="price_color">`).
-6. **Store** data in Python lists.
-7. **Create** a pandas DataFrame.
-8. **Export** to CSV file.
+🔄 Process
+1. Scraped book titles and prices from website
+2. Cleaned price data by removing encoding issues
+3. Converted prices into numeric format
+4. Performed statistical analysis
+5. Visualized price distribution
 
-## Key Challenges & Solutions
-- **Challenge:** Understanding which HTML tags contain the needed data.  
-  **Solution:** Used browser Inspect tool to explore the structure.
-- **Challenge:** Handling missing data.  
-  **Solution:** The site is clean; for practice, I added checks for future robustness.
-
+📊 Key Results
+- Average Price: 38.048500000000004
+- Highest Price: 57.25
+- Lowest Price: 13.99
+💡 Insights
+- Most books fall within a mid-range price
+- A few books are priced significantly higher
+- Price distribution shows variation across products
 ## Output
 The resulting CSV file contains 20 rows (one per book) with two columns: `Book Title` and `Price (UK Pounds)`.
 
@@ -40,7 +44,7 @@ The resulting CSV file contains 20 rows (one per book) with two columns: `Book T
 | ... | ... |
 
 ## Files in This Folder
-- `books_scraper.ipynb` – Jupyter/Colab notebook with the code.
+- `book_price_analysis.ipynb` – Jupyter/Colab notebook with the code.
 - `my_first_scraped_books.csv` – The final data file.
 
 ## How to Run
