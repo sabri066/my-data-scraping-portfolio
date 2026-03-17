@@ -13,8 +13,6 @@ This project extracts and analyzes book pricing data from an online catalog to u
 - BeautifulSoup
 - pandas
 - matplotlib
-- Python 3
-
 
 ## Process
 🔄 Process
