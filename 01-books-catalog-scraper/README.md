@@ -1,6 +1,6 @@
 📊 Book Price Analysis Using Web Scraping
 
-📌 Objective
+## 📌 Objective
 The goal of this project is to simulate a real-world business scenario where product pricing data is collected from an e-commerce website and analyzed to identify pricing patterns, trends, and distribution. This type of analysis helps businesses make pricing decisions and understand market positioning.
 ### 📈 Skills Demonstrated
 
@@ -12,26 +12,25 @@ The goal of this project is to simulate a real-world business scenario where pro
 ## Website Scraped
 [http://books.toscrape.com/](http://books.toscrape.com/) – a safe practice site.
 
-🛠 Tools Used
+## 🛠 Tools Used
 - Python
 - requests
 - BeautifulSoup
 - pandas
 - matplotlib
 
-## Process
-🔄 Process
+## 🔄 Process
 1. Scraped book titles and prices from website
 2. Cleaned price data by removing encoding issues
 3. Converted prices into numeric format
 4. Performed statistical analysis
 5. Visualized price distribution
 
-📊 Key Results
+## 📊 Key Results
 - Average Price: 38.05
 - Highest Price: 57.25
 - Lowest Price: 13.99
-💡 Insights
+## 💡 Insights
 - The majority of books are priced between £45 and £55, indicating a premium pricing cluster.
 - A smaller group of books falls below £25, suggesting discounted or budget offerings.
 - The price distribution is slightly right-skewed, meaning more books are concentrated in the higher price range.
