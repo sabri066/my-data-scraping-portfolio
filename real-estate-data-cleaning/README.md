@@ -27,10 +27,13 @@ This project simulates a real‑world task: cleaning a messy property listing da
 6. Identified and counted missing values (address, price, MLS).
 
 ## 📊 Key Results
-- Total properties after cleaning: (you can fill this in later)
-- Duplicates removed: (fill in)
-- Price range: (fill in)
-- Missing address or price: (fill in)
+- Total properties after cleaning: 102 properties
+- Duplicates removed: 0 (dataset was already unique per MLS number)
+- Price range: $236,161 to $1,500,000
+- Missing address or price: 3 missing addresses, 0 missing prices
+- Status breakdown: 35 Sold | 30 Pending | 23 Active | 14 Unknown
+- Denver had the highest listings (26) — Colorado Springs the lowest (13)
+- All 102 properties standardized to consistent CO state format
 
 ## 💼 Relevance to Data Entry Analyst Roles
 This project demonstrates the ability to:
