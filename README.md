@@ -39,7 +39,7 @@ for a Colorado boutique firm.
 - Price range: $236,161 to $1,500,000
 - Denver had most listings (26), Colorado Springs fewest (13)
 - Delivered clean CSV + 3 visualizations
-- 📁 Folder: `03-real-estate-cleaning`
+- 📁 Folder: `optical-data-extraction`
 
 ---
 
