@@ -1,39 +1,64 @@
-# my-data-scraping-portfolio
-Hello! I am Maaroof Hussain, a passionate data enthusiast learning web scraping and data analysis. This portfolio showcases my hands-on projects using Python to extract, clean, and organize data from websites.
+# 🕷️ Data Scraping Portfolio — Maaroof Hussain
 
-## About Me
+Hi! I'm Maaroof Hussain, a data analyst building 
+real-world skills through hands-on projects.
+This portfolio showcases 4 complete scraping and 
+data projects using Python and SQL.
+
+## 👤 About Me
 - 📍 Based in Saudi Arabia
-- 💼 Currently working as Store Assistant
-- 🌱 Learning: Python, BeautifulSoup, Selenium, Pandas, and Data Analysis
-- 🎯 Goal: Transition into a Data Analyst role
+- 🎯 Goal: Data Analyst role (remote or on-site)
+- 🛠 Skills: Python, SQL, BeautifulSoup, Pandas, Tableau
 
-## Projects Included
+---
 
-### 1. Book Catalog Scraper
-- **Goal:** Scrape book titles and prices from a practice e-commerce site.
-- **Tools:** Python, requests, BeautifulSoup, Pandas.
-- **What I Did:** Extracted 20 books from the first page, cleaned the data, and saved as CSV.
-- **Folder:** [`01-books-catalog-scraper`](./01-books-catalog-scraper)
-- **Sample Output:** [`my_first_scraped_books.csv`](./01-books-catalog-scraper/my_first_scraped_books.csv)
+## 📦 Projects
 
-### 2. Famous Quotes Scraper
-- **Goal:** Scrape quotes and their authors from a quotes website.
-- **Tools:** Python, requests, BeautifulSoup, Pandas.
-- **What I Did:** Extracted 10 quotes and authors, learned to inspect HTML and adapt code to a new site.
-- **Folder:** [`02-quotes-scraper`](./02-quotes-scraper)
-- **Sample Output:** [`my_first_scraped_quotes.csv`](./02-quotes-scraper/my_first_scraped_quotes.csv)
+### 1. 📚 Book Price Analysis — Web Scraping
+Scraped 20 books from an e-commerce site.
+Analyzed pricing patterns and distribution.
+- Average price: £38.05 | Highest: £57.25 | Lowest: £13.99
+- Found majority of books cluster in premium £45–£55 range
+- 📁 Folder: `01-books-catalog-scraper`
 
-## Skills Demonstrated
-- Web scraping with Python
-- HTML parsing and element selection
-- Data cleaning and CSV export
-- Using Pandas for data manipulation
-- Version control with Git/GitHub
+---
 
-## How to Use These Projects
-1. Clone this repository.
-2. Install required libraries: `pip install requests beautifulsoup4 pandas`
-3. Run the Python scripts or open the Colab notebooks.
+### 2. 💬 Famous Quotes Scraper
+Scraped quotes and authors from quotes.toscrape.com.
+Demonstrates ability to adapt scraping logic 
+to any website structure.
+- 📁 Folder: `02-quotes-scraper`
 
+---
 
-Thank you for visiting my portfolio!
+### 3. 🏠 Real Estate Data Cleaning
+Cleaned a messy 102-property real estate dataset 
+for a Colorado boutique firm.
+- Fixed inconsistent dates, prices, state formats, 
+  and status values
+- Price range: $236,161 to $1,500,000
+- Denver had most listings (26), Colorado Springs fewest (13)
+- Delivered clean CSV + 3 visualizations
+- 📁 Folder: `03-real-estate-cleaning`
+
+---
+
+### 4. 👁️ Optical Practice SQL Extraction
+Built a real SQLite database for an optical store.
+Wrote SQL JOIN queries to extract full transaction history.
+- Connected 4 tables: patients, orders, products, order items
+- Exported clean transaction CSV for business reporting
+- 📁 Folder: `04-optical-sql-extraction`
+
+---
+
+## 🛠 Skills Demonstrated
+- Web scraping with Python (requests, BeautifulSoup)
+- Data cleaning and standardization (Pandas)
+- SQL database design and querying (SQLite)
+- Data visualization (Matplotlib)
+- Git and GitHub version control
+
+## 📫 Contact
+- LinkedIn: [(https://www.linkedin.com/in/maaroof-hussain/)]
+- Email: sabrimaaroof@gmail.com
