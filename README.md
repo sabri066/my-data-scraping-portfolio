@@ -60,5 +60,5 @@ Wrote SQL JOIN queries to extract full transaction history.
 - Git and GitHub version control
 
 ## 📫 Contact
-- LinkedIn: [(https://www.linkedin.com/in/maaroof-hussain/)]
+- LinkedIn: https://www.linkedin.com/in/maaroof-hussain/
 - Email: sabrimaaroof@gmail.com
