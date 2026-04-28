@@ -48,7 +48,7 @@ Built a real SQLite database for an optical store.
 Wrote SQL JOIN queries to extract full transaction history.
 - Connected 4 tables: patients, orders, products, order items
 - Exported clean transaction CSV for business reporting
-- 📁 Folder: `04-optical-sql-extraction`
+- 📁 Folder: `real-estate-data-cleaning`
 
 ---
 
